@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on `DICOM Slim microscopy Viewer`
 - 🌱 I’m currently learning ... `BUN, AWS Lambda, Kubernetes, ECS Cluster, Tensorflow js`
 - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with `DICOM metadata API too slow`
+- 🤔 I’m looking for help with `DICOM /bulk API too slow` https://github.com/orthanc-server/orthanc-explorer-2/issues/32
 - 💬 Ask me about ..
 - 📫 How to reach me: ... dev.selvesan@gmail.com
 - 😄 Pronouns: ...
